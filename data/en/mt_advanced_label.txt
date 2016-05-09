@@ -1,0 +1,46 @@
+% Associated file : (mt_advanced_label.txt)
+%-----------------------------------------------------------------------------------------
+% Warning : Space characters should be replaced by "-" in this file.
+%           Write "<moins>" in order to display a "-" in the GUI
+% Read this file with the following command line :
+% textread('<file>.txt','%s%s%s','commentstyle','matlab')
+%-----------------------------------------------------------------------------------------
+% Generated : 08-Jul-2014 10:40:34
+%-----------------------------------------------------------------------------------------
+% Tag                                   Property            Value
+%-----------------------------------------------------------------------------------------
+
+FgAdvanced                              Name                Example-of-advanced-interface
+FgAdvanced                              WindowStyle         normal
+%----------------------------------------------------------------------------------------
+StTitle_T1                              String              ADVANCED-INTERFACE-DESIGNED-FROM-GUIDE
+StSignalsFilter                         String              Filter-the-list
+StSignalsSources                        String              Signals-sources
+StPlotsInformation                      String              Process:-Drag-signals-from-the-list-on-the-left-and-drop-them-into-the-edition-area.
+StPlotsOrdinate                         String              Ordinate:
+StPlotsAbscissa                         String              Abscissa:
+StPlotsExtraOrdinate                    String              Second-ordinate
+%----------------------------------------------------------------------------------------
+PbAddSources                            String              
+PbSignalsFilter                         String              
+PbResetPlots                            String              
+PbPlots                                 String              
+%----------------------------------------------------------------------------------------
+EdSignalsFilter                         String              
+EdPlotsOrdinate                         String              
+EdPlotsAbscissa                         String              
+EdPlotsExtraOrdinate                    String              
+EdSignalsFilter                         TooltipString       <html><b>Filter-definition</b><br-/>Define-a-string-that-will-be-used-to-filter-the-signals-list.<br-/>In-standard-mode-click-on-the-filter-button.<br-/>In-advanced-mode-validate-the-string-with-Enter.</html>
+EdPlotsOrdinate                         TooltipString       
+EdPlotsAbscissa                         TooltipString       
+EdPlotsExtraOrdinate                    TooltipString       
+%----------------------------------------------------------------------------------------
+LbSignals                               TooltipString       
+%----------------------------------------------------------------------------------------
+PmSignalsSources                        TooltipString       
+%----------------------------------------------------------------------------------------
+PnPlots_T2                              Title               Plot-signals
+PnSignals_T2                            Title               Signals
+PnPlotsDefinition_T2                    Title               Definition
+PnPlotsExtraOrdinate                    Title               Define-an-second-ordinate
+%----------------------------------------------------------------------------------------

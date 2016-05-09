@@ -1,0 +1,44 @@
+% Associated file : (mt_main_label.txt)
+%-----------------------------------------------------------------------------------------
+% Warning : Space characters should be replaced by "-" in this file.
+%           Write "<moins>" in order to display a "-" in the GUI
+% Read this file with the following command line :
+% textread('<file>.txt','%s%s%s','commentstyle','matlab')
+%-----------------------------------------------------------------------------------------
+% Generated : 19-Jun-2014 16:24:32
+%-----------------------------------------------------------------------------------------
+% Tag                                   Property            Value
+%-----------------------------------------------------------------------------------------
+
+FgMain                                  Name                Example-of-MATLAB-application
+FgMain                                  WindowStyle         normal
+%----------------------------------------------------------------------------------------
+StLibraryExample                        String              Interface-presenting-how-to-use-several-libraries-developed-within-Volvo-or-within-the-MATLAB-world-wide-community.
+StJavaFigure                            String              Interface-presenting-how-to-use-several-Java-object-developped-within-Volvo.
+StAdvancedFigure                        String              Interface-presenting-how-to-use-advanced-common-features-and-functionalities-that-could-be-directly-included-into-any-new-development.
+StBasicFigure                           String              Interface-presenting-how-to-use-basic-MATLAB-graphical-objects-and-their-standard-behaviour.
+%----------------------------------------------------------------------------------------
+PbLibraryExample                        String              Open-interface
+PbJavaFigure                            String              Open-interface
+PbAdvancedFigure                        String              Open-interface
+PbBasicFigure                           String              Open-interface
+%----------------------------------------------------------------------------------------
+MbHelp                                  Label               Help
+MbOptions                               Label               Options
+MbFile                                  Label               File
+MbGuidelines                            Label               Standard-and-guidelines
+MbGuidelinesPart1                       Label               Part1:-Naming-conventions
+MbUserGuide                             Label               User-guide
+MbScreensizes                           Label               Window-screensizes
+MbLanguages                             Label               Languages
+MbMode                                  Label               Mode
+MbClose                                 Label               Close
+MbAdvanced                              Label               Advanced-usage
+MbStandard                              Label               Standard-usage
+MbEn                                    Label               English
+MbFr                                    Label               French
+%----------------------------------------------------------------------------------------
+PnLibraryExample_T2                     Title               Example-of-librairies-functions
+PnJavaFigure_T2                         Title               Graphical-Java-object-behaviour
+PnStandardFigure_T2                     Title               MATLAB-standard-HMI
+%----------------------------------------------------------------------------------------
