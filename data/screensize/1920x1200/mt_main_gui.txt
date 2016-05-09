@@ -1,0 +1,13 @@
+
+FgMain								[200 300 500 500]
+PnLibraryExample_T2		[10 40 480 60]
+PnJavaFigure_T2				[10 120 480 60]
+PnStandardFigure_T2		[10 200 480 100]
+PbLibraryExample			[370 10 100 30]
+StLibraryExample			[10 10 350 30]
+PbJavaFigure					[370 10 100 30]
+StJavaFigure					[10 10 350 30]
+PbAdvancedFigure			[370 10 100 30]
+StAdvancedFigure			[10 10 350 30]
+PbBasicFigure					[370 50 100 30]
+StBasicFigure					[10 50 350 30]

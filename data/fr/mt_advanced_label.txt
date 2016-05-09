@@ -1,0 +1,42 @@
+% Associated file : (mt_advanced_label.txt)
+%-----------------------------------------------------------------------------------------
+% Warning : Space characters should be replaced by "-" in this file.
+%           Write "<moins>" in order to display a "-" in the GUI
+% Read this file with the following command line :
+% textread('<file>.txt','%s%s%s','commentstyle','matlab')
+%-----------------------------------------------------------------------------------------
+% Generated : 08-Jul-2014 10:40:34
+%-----------------------------------------------------------------------------------------
+% Tag                                   Property            Value
+%-----------------------------------------------------------------------------------------
+
+FgAdvanced                              Name                
+FgAdvanced                              WindowStyle         
+%----------------------------------------------------------------------------------------
+StTitle_T1                              String              
+StSignalsFilter                         String              
+StSignalsSources                        String              
+StPlotsInformation                      String              
+StPlotsOrdinate                         String              
+StPlotsAbscissa                         String              
+StPlotsExtraOrdinate                    String              
+%----------------------------------------------------------------------------------------
+PbAddSources                            String              
+PbSignalsFilter                         String              
+PbResetPlots                            String              
+PbPlots                                 String              
+%----------------------------------------------------------------------------------------
+EdSignalsFilter                         TooltipString       
+EdPlotsOrdinate                         TooltipString       
+EdPlotsAbscissa                         TooltipString       
+EdPlotsExtraOrdinate                    TooltipString       
+%----------------------------------------------------------------------------------------
+LbSignals                               TooltipString       
+%----------------------------------------------------------------------------------------
+PmSignalsSources                        TooltipString       
+%----------------------------------------------------------------------------------------
+PnPlots_T2                              Title               
+PnSignals_T2                            Title               
+PnPlotsDefinition_T2                    Title               
+PnPlotsExtraOrdinate                    Title               
+%----------------------------------------------------------------------------------------

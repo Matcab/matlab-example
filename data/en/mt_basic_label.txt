@@ -1,0 +1,55 @@
+% Associated file : (mt_basic_label.txt)
+%-----------------------------------------------------------------------------------------
+% Warning : Space characters should be replaced by "-" in this file.
+%           Write "<moins>" in order to display a "-" in the GUI
+% Read this file with the following command line :
+% textread('<file>.txt','%s%s%s','commentstyle','matlab')
+%-----------------------------------------------------------------------------------------
+% Generated : 20-Jun-2014 10:48:23
+%-----------------------------------------------------------------------------------------
+% Tag                                   Property            Value
+%-----------------------------------------------------------------------------------------
+
+FgBasic                                 Name                Example-of-standard-interface
+FgBasic                                 WindowStyle         normal
+%----------------------------------------------------------------------------------------
+StTitle_T1                              String              STANDARD-INTERFACE-DESIGNED-FROM-GUIDE
+StCurveSelection                        String              Select-function
+StFiles                                 String              List-of-files-from-the-directory
+StDirectory                             String              Select-a-directory
+StValueY                                String              Ordinate-(Y)
+StValueX                                String              Abscissa-(X)
+StColorSelection                        String              Select-a-color
+StDateInfo                              String              
+StSizeInfo                              String              
+StAbscissa                              String              Abscissa-factor
+StValues                                String              Select-a-point-on-a-curve.-The-current-values-are:
+%----------------------------------------------------------------------------------------
+PbEditFile                              String              #
+PbDirectory                             String              Browse
+%----------------------------------------------------------------------------------------
+RbLegend                                String              (Un)activate-the-legend
+%----------------------------------------------------------------------------------------
+CbFormatList                            String              Display-the-formated-list
+%----------------------------------------------------------------------------------------
+EdDirectory                             String              
+EdValueY                                String              
+EdValueX                                String              
+EdAbscissa                              String              
+EdDirectory                             TooltipString       <html><b>Files-folder</b><br-/>Select-a-folder-containing-several-files<br-/>-that-will-be-listed-in-the-list-below.</html>
+EdValueY                                TooltipString       
+EdValueX                                TooltipString       
+EdAbscissa                              TooltipString       
+%----------------------------------------------------------------------------------------
+LbFiles                                 TooltipString       
+%----------------------------------------------------------------------------------------
+PmCurveSelection                        String              |sinus|cosinus|tangeante
+PmCurveSelection                        TooltipString       <html><b>Plot-functions</b><br-/>Select-a-function-that-will-be-ploted-in-the-axe-below</html>
+PmColorSelection                        String              red|green|blue|black
+PmColorSelection                        TooltipString       <html><b>Optins:-color</b><br-/>Select-another-color-for-the-plot</html>
+%----------------------------------------------------------------------------------------
+PnPlot_T2                               Title               Plot-management
+PnList_T2                               Title               List-management
+PnValues_T2                             Title               Values
+PnOptions_T2                            Title               Options
+%----------------------------------------------------------------------------------------
